@@ -1,0 +1,33 @@
+###############################
+# Input script nanofoams_input.txt
+# Datos de entrada para el armado de las espumas
+# Para usar con script build_nanofoams.py
+# Nota: Las unidades de longitud son a elección del usuario, siempre que sean consistentes en todos los parámetros.
+###############################
+
+# Tipo de red cristalina (Cúbica:0,BCC:1,FCC:2) (ante un valor distinto de 1 o 2, la red es cúbica)
+1
+
+# Tamaño de caja: x_size y_size z_size (Unidad: AA)
+330.3
+330.3
+330.3
+
+# Parámetro de red 
+3.303
+
+# Fracción sólida de la espuma
+0.30
+
+# Datos para el armado de la función f
+# Tamaño medio de ligamento deseado 
+# (este valor puede variar al generar la espuma, pero se le informa al usuario dicho cambio antes de continuar) 
+50.2
+# Numero de ondas N
+10000
+
+# Constante a 
+330.3
+
+# Semilla para inicializar números aleatorios
+42
