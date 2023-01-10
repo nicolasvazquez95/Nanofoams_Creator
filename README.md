@@ -19,7 +19,7 @@ APA citation format:
 
 Or use the _references.bib_ included in the repository (LaTex).
 
-# References and Acknowledgments
+## References and Acknowledgments
 
 This work is a Python implementation written by Nicolás Vazquez and Carlos J. Ruestes, based on the article by Soyarslan et al.
 
