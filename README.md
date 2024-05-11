@@ -15,7 +15,8 @@ This work used the Nanofoams Creator code, freely available at https://github.co
 
 APA citation format:
 
-> Vazquez, N., & Ruestes, C. J. (2022). Software open-source para la generación de estructuras biontinuas estocásticas. 20° CONGRESO INTERNACIONAL DE MATERIALES (SAM-CONAMET). https://github.com/nicolasvazquez95/Nanofoams_Creator/raw/main/ref/abstract_conference.pdf
+> Vazquez von Bibow, N., Millán, E. N., & Ruestes, C. J. (2024). Topological changes and deformation mechanisms of nanoporous Ta under compression. Computational Materials Science, 236, 112884. https://doi.org/10.1016/j.commatsci.2024.112884
+> von Bibow, N. V., Millán, E. N., & Ruestes, C. J. (2024). Topological changes and deformation mechanisms of nanoporous Ta under compression. https://doi.org/10.48550/arXiv.2402.12278
 
 Or use the _references.bib_ included in the repository (LaTex).
 
